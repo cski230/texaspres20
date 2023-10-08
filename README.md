@@ -1,7 +1,7 @@
 # The 2020 Presidential race mapped out in Texas (using two party vote share, minor parties dropped)
 
 #This map uses data from Harvard VEST, who compile election results in a database for easy useage, in particular for mapping purposes
-# https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K7760H
+#https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K7760H
 
 #I created this map to show which candidate won which precincts in Texas in 2020. Texas is expected to be competitive federally in 2024, so understanding the previous election's results and coalitions is informative to how it might vote in 2024 and after
 
